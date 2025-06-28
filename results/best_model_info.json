@@ -1,0 +1,7 @@
+{
+  "best_model_name": "ResNet-34",
+  "test_accuracy": 0.9879859302909871,
+  "best_val_accuracy": 99.04625928041119,
+  "model_path": "saved_models/ResNet-34_20250623_152308",
+  "timestamp": "2025-06-23 15:50:05"
+}

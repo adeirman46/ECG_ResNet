@@ -1,0 +1,4 @@
+Model,Total Parameters,Trainable Parameters,Model Size (MB),Memory Footprint
+ResNet-18,"3,846,469","3,846,469",14.67,29.35 MB
+ResNet-34,"7,220,805","7,220,805",27.55,55.09 MB
+ResNet-50,"15,964,485","15,964,485",60.90,121.80 MB

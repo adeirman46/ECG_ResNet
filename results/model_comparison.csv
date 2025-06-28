@@ -1,0 +1,4 @@
+Model,Test Accuracy,Best Val Accuracy,Model Path
+ResNet-18,0.9865,99.02%,saved_models/ResNet-18_20250623_151116
+ResNet-34,0.9880,99.05%,saved_models/ResNet-34_20250623_152308
+ResNet-50,0.9871,99.01%,saved_models/ResNet-50_20250623_155003
